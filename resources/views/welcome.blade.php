@@ -38,7 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello Laravel! - by Yen</div>
+                <div class="title">Hello Laravel! - by Yen
+                    <p>版权归Yen所有</p></div>
             </div>
         </div>
     </body>
